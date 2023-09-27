@@ -1,4 +1,6 @@
+<p align = "center">
 <h1 align="center">Hey there  👋 </h1>
+</p>
 <p align="center">
 	
 I'm a passionate software developer with a strong background in web development, database management, and a love for coding.<br>
@@ -41,7 +43,7 @@ Welcome to my GitHub profile!</p>
 	<a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60"></a>
 	<a href="https://www.arduino.cc/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width="60"></a>
 	<a href="https://ubuntu.com/"><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_106,h_150/https://assets.ubuntu.com/v1/d9c2c5bf-ubuntu_certified.png" width="60"></a>
-	<a href="https://github.com/Iam-Wangereka/Iam-Wangereka/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"></a>
+	<a href="https://github.com/Iam-Wangereka/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>My Skills:
@@ -99,4 +101,13 @@ Here are some of the technologies and tools I'm proficient in:
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<p>
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about coding. 😄
+</p>
+
+<p align="center">
+	
+Credit [Iam-Wangereka](https://github.com/Iam-Wangereka/)
+
+Last Edited on: 27/09/2023
