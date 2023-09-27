@@ -20,7 +20,7 @@ I'm a passionate software developer with a strong background in web development,
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, databases, or anything related to coding.
-- 📫 How to reach me: [sammywaweru@2000@gmail.com]
+- 📫 How to reach me: [sammywaweru2000@gmail.com]
 
 ## My Skills
 
