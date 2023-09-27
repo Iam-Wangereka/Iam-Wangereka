@@ -13,19 +13,19 @@ Welcome to my GitHub profile!</p>
 
 ## 👨🏻‍💻 About Me:
 
-- 🎓 I'm currently studying Computer Science at Kabarak University,Nakuru-Kenya.
+- 🎓 I'm currently studying Computer Science at [Kabarak University, Nakuru-Kenya](https://kabarak.ac.ke/).
 - 📚 I'm doing a personal research project on realtime embedded systems for Energy Management & Conservation
-- 🔭 I’m currently working on SPOT.
+- 🔭 I’m currently working on [SPOT](https://github.com/Iam-Wangereka/spot.git).
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, databases, or anything related to coding.
   
 ## Interest:
 - 📛 Machine Learning.
-- 🤖 IoT and Robotics.
+- 🤖 [IoT](https://en.wikipedia.org/wiki/Internet_of_things) and Robotics.
 - ⚙️ Hardware Development.
 
 
-## My Stack:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>My Stack:
 
 <p align="center">
 	<a href="https://www.coreldraw.com/en/"><img src= "https://img.utdstc.com/icon/62f/136/62f1369d2e49fdcdf4989596eefad984413b9f39a8edcb775ceda2ad736e686c:100" width="60"></a>
@@ -33,7 +33,7 @@ Welcome to my GitHub profile!</p>
 	<a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"width="60"></a>
 	<a href="https://www.java.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="60"></a>
 	<a href="https://www.mongodb.com/"><img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="60">        
-	<a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="60"></a>
+	<a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60"></a>
 	<a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60"></a>
 </p>
 <p align="center">
@@ -46,7 +46,7 @@ Welcome to my GitHub profile!</p>
 	<a href="https://github.com/Iam-Wangereka/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"></a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>My Skills:
+## 🛠️My Skills:
 
 Here are some of the technologies and tools I'm proficient in:
 
@@ -83,23 +83,23 @@ Here are some of the technologies and tools I'm proficient in:
 
 ## ✍️Get in Touch:
 
-- [LinkedIn](https://www.linkedin.com/in/waweru-wangereka-6b9a20244/)
-- Email ✉️: [sammywaweru2000@gmail.com](mailto:sammywaweru2000@gmail.com)
+- [LinkedIn💬](https://www.linkedin.com/in/waweru-wangereka-6b9a20244/)
+- [Email ✉️](mailto:sammywaweru2000@gmail.com)
 
 ## 🌱 Fun Fact:
 
  #### F  A  I  L
 
-- [F] First
-- [A] Attempt
-- [ I] In
-- [L] Learning
+- F - First
+- A - Attempt
+- I - In
+- L - Learning
 
 
 ## 🐍 A Snake Eating my Contributions Graph:
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img alt = "Snake Game" src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" >
 </p>
 
 <p>
